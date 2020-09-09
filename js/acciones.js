@@ -1,0 +1,1 @@
+acciones en fichero js
